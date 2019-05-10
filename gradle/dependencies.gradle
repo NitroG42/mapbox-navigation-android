@@ -11,7 +11,7 @@ ext {
       mapboxMapSdk           : '7.4.0-beta.2',
       mapboxSdkServices      : '4.6.0',
       mapboxEvents           : '4.3.0',
-      mapboxCore             : '1.2.0',
+      mapboxCore             : '1.3.0',
       mapboxNavigator        : '6.1.2',
       mapboxCrashMonitor     : '2.0.0',
       mapboxAnnotationPlugin : '0.6.0',
