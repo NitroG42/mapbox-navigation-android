@@ -2,6 +2,8 @@
 
 Mapbox welcomes participation and contributions from everyone.
 
+* Added walking options [#1934](https://github.com/mapbox/mapbox-navigation-android/pull/1934)
+
 ### v0.37.0 - May 1, 2019
 
 * Added check for legs to route refresh [#1916](https://github.com/mapbox/mapbox-navigation-android/pull/1916)
