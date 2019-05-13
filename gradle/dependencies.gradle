@@ -8,9 +8,10 @@ ext {
   ]
 
   version = [
-      mapboxMapSdk           : '7.3.2',
+      // TODO Bump when Maps SDK is released
+      mapboxMapSdk           : '7.5.0-20190513.125143-36',
       mapboxSdkServices      : '4.7.0',
-      mapboxEvents           : '4.3.0',
+      mapboxEvents           : '4.4.1',
       mapboxCore             : '1.2.0',
       mapboxNavigator        : 'route_buffer-SNAPSHOT-7',
       mapboxCrashMonitor     : '2.0.0',
